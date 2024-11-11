@@ -1,0 +1,3 @@
+type: building
+card_appearance: card_bombt_1_default
+builing_appearance: bombt_1_default

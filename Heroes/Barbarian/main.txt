@@ -1,0 +1,6 @@
+type: unit
+number: 5
+exilir_cost: 5
+area_to_unlock: 1
+
+

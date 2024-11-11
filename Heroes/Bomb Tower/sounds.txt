@@ -1,0 +1,3 @@
+deploy_sound: bombt_deploy_default
+attack_sound: bombt_attack
+death_sound: bombt_death

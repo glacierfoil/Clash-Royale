@@ -1,0 +1,7 @@
+speed: 2
+targets: 1
+target_type: building
+attack_range: 1
+attack_damage: 30
+attack_speed: 2
+attack_splash: 0

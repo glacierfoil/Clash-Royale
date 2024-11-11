@@ -1,0 +1,4 @@
+type: building
+number: 1
+elixir_cost: 7
+area_to_unlock: 5

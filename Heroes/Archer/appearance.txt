@@ -1,0 +1,3 @@
+type: human
+human_hair: pink
+human_body: w_1_green

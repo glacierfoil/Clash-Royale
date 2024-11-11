@@ -1,0 +1,4 @@
+type: human
+card_appearance: card_bar_1_deafault
+human_hair: yellow
+human_body: bar_1_default

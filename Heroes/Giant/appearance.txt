@@ -1,0 +1,4 @@
+type: human
+card_appearance: card_giant_1_deafault
+human_hair: orange
+human_body: giant_1_default

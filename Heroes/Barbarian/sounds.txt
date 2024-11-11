@@ -1,0 +1,3 @@
+attack_sound: barbarian_attack
+deploy_sound: barbarian_deploy_default
+death_sound: barbarian_death

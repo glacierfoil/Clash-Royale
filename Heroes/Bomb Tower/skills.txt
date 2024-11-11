@@ -1,0 +1,7 @@
+speed: 0
+targets: 1
+target_type: any
+attack_range: 4
+attack_damage: 45
+attack_speed: 1
+attack_splash: 2.5
